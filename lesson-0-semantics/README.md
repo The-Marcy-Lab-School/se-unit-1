@@ -16,6 +16,7 @@
 
 ## Additional Resources
 * [HTML Basics - **Structuring Your Content**](https://teamtreehouse.com/library/html-basics-2) Section on Treehouse
+* [MDN - Semantic HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Learning Lab
 * [Recreate a Tribute Lab](https://github.com/The-Marcy-Lab-School/se-unit-1/tree/master/lesson-0-semantics/tribute-lab)
