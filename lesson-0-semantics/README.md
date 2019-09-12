@@ -18,7 +18,7 @@
 * [HTML Basics - **Structuring Your Content**](https://teamtreehouse.com/library/html-basics-2) Section on Treehouse
 
 ## Learning Lab
-* [Recreate a Tribute Lab](https://github.com/The-Marcy-Lab-School/se-unit-1/tree/master/lesson_0_semantics/tribute-lab)
+* [Recreate a Tribute Lab](https://github.com/The-Marcy-Lab-School/se-unit-1/tree/master/lesson-0-semantics/tribute-lab)
 
 ## Extension Assignment
 N/A
