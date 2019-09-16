@@ -22,4 +22,4 @@
   * Set width of `main`
   * Set `section` and `article` to `display: inline-block`
   * Set `section` and `article` to `max-height: fill-available`
-  * Set background colorszi
+  * Set background colors
