@@ -26,5 +26,5 @@
 * Tutorial: [CSS Selectors - Beyond the Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators)
 
 ## Learning Labs
-* [CSS Diner](https://flukeout.github.io/). Complete all levels of he CSS Diner activity.
+* [CSS Diner](https://flukeout.github.io/): Complete all levels of the CSS Diner activity.
 
