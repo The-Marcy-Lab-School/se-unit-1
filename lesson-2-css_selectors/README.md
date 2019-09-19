@@ -25,7 +25,7 @@
 * Article: [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) on MDN
 * Article: [CSS Specifity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 * Article: [CSS Specificity Explained](https://pawelgrzybek.com/css-specificity-explained/)
-* Article: [**Reasons not to use IDs in CSS](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
+* Article: [**Reasons not to use IDs in CSS**](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
 * (Optional) Tutorial: [CSS Selectors - Beyond the Basics](https://teamtreehouse.com/library/css-selectors)
 
 ## Extension
