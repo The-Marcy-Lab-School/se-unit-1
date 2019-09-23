@@ -39,4 +39,4 @@
 * Tutorial: (Optional) [HTML Forms on Treehouse](https://teamtreehouse.com/library/html-forms)
 
 ## Learning Lab
-* Quiz Your Friends Lab
+* [Quiz Your Friends Lab](https://github.com/The-Marcy-Lab-School/quiz-your-friends)
