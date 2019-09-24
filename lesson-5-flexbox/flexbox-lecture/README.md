@@ -1,0 +1,3 @@
+Flow of lecture...
+1. Make a nav bar using a `ul` of `div`s.
+2. Then remake in flexbox.
