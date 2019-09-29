@@ -14,6 +14,7 @@
 * `display: grid`
 * `grid-template-columns`
 * `grid-template-rows`
+* `grid-template-areas`
 * `grid-auto-rows`
 * `grid-auto-columns`
 * `grid-column-gap`
@@ -30,7 +31,7 @@
 ## Essential Questions
 * How do CSS Flexbox and Grid differ?
 * How do you span grid items across multiple rows/columns?
-* How can we use fraction units to create fluid layouts?
+* How can we use fractional units to create fluid layouts?
 * What are named grid areas and how do they assist us in laying out a page?
 
 
