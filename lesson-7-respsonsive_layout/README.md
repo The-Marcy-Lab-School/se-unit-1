@@ -15,4 +15,7 @@
 ## Learning Assignments
 * Tutorial: [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts) on Treehouse
 * Article: [A Hands-On Guide to Mobile First Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
+
+## Lab
+* [Product Landing Page](https://github.com/The-Marcy-Lab-School/product-landing-page)
 ___

@@ -32,4 +32,5 @@
 * Article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) on CSS Tricks
 * Tutorial: [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout) on Treehouse
 * Practice: Complete all levels of [Flexbox Froggy](https://flexboxfroggy.com/)
+
 ___

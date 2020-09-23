@@ -38,4 +38,6 @@
 * Article: (Optional) [How to Structure an HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
 * Tutorial: (Optional) [HTML Forms on Treehouse](https://teamtreehouse.com/library/html-forms)
 
+## Lab
+* [Quiz Your Friends](https://github.com/The-Marcy-Lab-School/quiz-your-friends)
 ___

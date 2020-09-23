@@ -33,6 +33,8 @@ Fellows will be able to answer the questions...
 2. Documentation: [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) on MDN
 3. Documentation: [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) on MDN
 
+## Lab
+* [Landing Page](https://github.com/The-Marcy-Lab-School/landing-page-lab)
 ___
 
 ### Additional Resources

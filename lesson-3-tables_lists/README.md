@@ -29,4 +29,6 @@
 * Article: [Styling HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables)
 * (OPTIONAL) Tutorial: [HTML Tables](https://teamtreehouse.com/library/html-tables) on Treehouse
 
+## Lab
+* [Planetary Table](https://github.com/The-Marcy-Lab-School/planetary-table)
 ___
