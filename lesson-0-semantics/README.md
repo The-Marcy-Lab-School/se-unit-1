@@ -1,6 +1,7 @@
 # Unit 1 - Lesson 0: Semantic HTML/CSS Basics
 
-## Essential Questions
+## Objectives
+Fellows will be able to answer the questions...
 * What are the semantic HTML tags?
 * What are the non-semantic HTML tags?
 * What are the benefits of writing HTML semantically?
@@ -10,16 +11,16 @@
 * How do `<div>`s and `<span>`s differ?
 
 ## Learning Assignments
-1. Article: [Getting to Know HTML Article](https://learn.shayhowe.com/html-css/getting-to-know-html/)
-2. Article: [HTML Semantics Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
-3. Tutorial: [Semantic Markup](https://teamtreehouse.com/library/introducing-the-practice-41) on Treehouse
+1. [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html), only the first and last sections:
+    * Elements and Structure
+    * Semantic HTML
+2. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), section:
+    * Selectors and Visual Rules
+___
 
-## Additional Resources
+### Additional Resources
+* Article: [Getting to Know HTML Article](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+* Article: [HTML Semantics Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
+* Tutorial: [Semantic Markup](https://teamtreehouse.com/library/introducing-the-practice-41) on Treehouse
 * [HTML Basics - **Structuring Your Content**](https://teamtreehouse.com/library/html-basics-2) Section on Treehouse
 * [MDN - Semantic HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-## Learning Lab
-* [Recreate a Tribute Lab](https://github.com/The-Marcy-Lab-School/se-unit-1/tree/master/lesson-0-semantics/tribute-lab)
-
-## Extension Assignment
-N/A

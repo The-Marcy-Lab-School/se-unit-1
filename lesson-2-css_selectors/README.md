@@ -28,11 +28,11 @@
 * Article: [**Reasons not to use IDs in CSS**](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
 * (Optional) Tutorial: [CSS Selectors - Beyond the Basics](https://teamtreehouse.com/library/css-selectors)
 
-## Extension
-* Article: [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
-* Article: [CSS Style Guides](https://css-tricks.com/css-style-guides/)
-
-## Learning Labs
+## Practice Assignments
 * [CSS Diner](https://flukeout.github.io/): Complete all levels of the CSS Diner activity.
 * [Specificity Quiz](https://mjswensen.github.io/css-power-ups/the-cascade-and-specificity/specificity-quiz/)
+___
 
+## Extend Your Learning
+* Article: [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
+* Article: [CSS Style Guides](https://css-tricks.com/css-style-guides/)

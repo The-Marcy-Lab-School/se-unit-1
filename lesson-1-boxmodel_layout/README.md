@@ -1,9 +1,11 @@
 # Unit 1 - Lesson 1: The Box Model
 
-## Essential Questions
+## Objectives
+Fellows will be able to answer the questions...
+
 ### The Box Model
 * What are the four different parts of the box model?
-* What is padding, margin, and border and how does each change the layout of content? 
+* What is padding, margin, and border and how does each change the layout of content?
 * How does padding, margin, and border impact the width and height of a content box?
 * What is the `box-sizing` property and how does the `border-box` value change the way width and height are calculated?
 * What is the best way to ensure that all of your element use `border-box` sizing by default?
@@ -25,13 +27,16 @@
 * Why would we use a _clearfix_ and what are the two ways we are likely to see it implemented?
 
 ## Learning Assignments
-* Article: [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) on MDN
-* Article: [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) on MDN
+1. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), sections:
+  * The Box Model
+  * Display and Positioning
+2. Documentation: [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) on MDN
+3. Documentation: [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) on MDN
+
+___
+
+### Additional Resources
 * Treehouse: CSS Basics - [Understanding Values and Lengths](https://teamtreehouse.com/library/common-data-types)
 * Treehouse: CSS Basics - [The Box Model](https://teamtreehouse.com/library/the-css-box-model)
 * Treehouse: CSS Basics - [Basic Layout](https://teamtreehouse.com/library/width-and-height-properties)
 * Treehouse: [CSS Layout Basics](https://teamtreehouse.com/library/css-layout-basics)
-
-## Labs
-* Abstract Art Lab
-* Landing Page Lab

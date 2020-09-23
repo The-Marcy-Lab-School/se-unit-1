@@ -4,7 +4,7 @@
 * grid container
 * grid items
 * grid lines
-* grid tracks 
+* grid tracks
 * `fr` or fraction unit
 * explicit grid vs. implicit grid
 * `minmax()`
@@ -37,8 +37,6 @@
 
 ## Learning Assignments
 * Tutorial: [CSS Grid Layout](https://teamtreehouse.com/library/css-grid-layout) on Treehouse
-* Tutorial: [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o) 
+* Tutorial: [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
 * Practice: [CSS Grid Garden](https://cssgridgarden.com/) (**Optional**)
-
-## Learning Lab
-* [Grid Landing Page Lab](https://github.com/The-Marcy-Lab-School/landing-page-grid)
+___

@@ -10,7 +10,7 @@
   * password
   * radio
   * checkbox
-  * submit 
+  * submit
 
 * **Nice-to-Know input types**:
   * number
@@ -22,7 +22,7 @@
 * `name`, `value`, and `id` attributes on the `<input>` tag.
 * `action` and `method` attributes on the `<form>` tag.
 
-* `<label>` 
+* `<label>`
 * `<fieldset>`
 * `<legend>`
 
@@ -38,5 +38,4 @@
 * Article: (Optional) [How to Structure an HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
 * Tutorial: (Optional) [HTML Forms on Treehouse](https://teamtreehouse.com/library/html-forms)
 
-## Learning Lab
-* [Quiz Your Friends Lab](https://github.com/The-Marcy-Lab-School/quiz-your-friends)
+___
