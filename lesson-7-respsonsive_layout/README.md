@@ -13,9 +13,12 @@
 * How do we leverage the _cascade_ to avoid having to write duplicate CSS for styles that are common across different media queries?
 
 ## Learning Assignments
-* Tutorial: [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts) on Treehouse
-* Article: [A Hands-On Guide to Mobile First Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
+1. [Codecademy Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
+2. Article: [A Hands-On Guide to Mobile First Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
 
-## Lab
-* [Product Landing Page](https://github.com/The-Marcy-Lab-School/product-landing-page)
 ___
+
+### Optional Learning
+
+#### Additional Resources
+* Tutorial: [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts) on Treehouse

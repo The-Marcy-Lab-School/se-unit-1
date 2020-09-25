@@ -25,7 +25,7 @@
 3. Article: [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) on MDN
 4. Article: [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 5. Article: [CSS Specificity Explained](https://pawelgrzybek.com/css-specificity-explained/)
-6. Article: [**Reasons not to use IDs in CSS**](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
+6. Article: [Reasons not to use IDs in CSS](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
 
 ## Practice Assignments
 * [CSS Diner](https://flukeout.github.io/): Complete all levels of the CSS Diner activity.

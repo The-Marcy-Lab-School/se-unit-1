@@ -33,11 +33,15 @@
 * How do we ensure that labels are directly associated with the input field(s) the reference?
 
 ## Learning Assignments
-* Article: [Building Forms on Shay Howe](https://learn.shayhowe.com/html-css/building-forms/)
-* Article: (Optional) [Your First HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
-* Article: (Optional) [How to Structure an HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
-* Tutorial: (Optional) [HTML Forms on Treehouse](https://teamtreehouse.com/library/html-forms)
+1. [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html), only the section:
+    * Forms
+2. Article: [Building Forms on Shay Howe](https://learn.shayhowe.com/html-css/building-forms/)
 
-## Lab
-* [Quiz Your Friends](https://github.com/The-Marcy-Lab-School/quiz-your-friends)
 ___
+
+### Optional Learning
+
+#### Additional Resources
+* Article: [Your First HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+* Article: [How to Structure an HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
+* Tutorial: [HTML Forms on Treehouse](https://teamtreehouse.com/library/html-forms)

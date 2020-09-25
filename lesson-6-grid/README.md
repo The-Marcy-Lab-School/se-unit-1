@@ -35,10 +35,13 @@
 * What are named grid areas and how do they assist us in laying out a page?
 
 ## Learning Assignments
-* Tutorial: [CSS Grid Layout](https://teamtreehouse.com/library/css-grid-layout) on Treehouse
-* Tutorial: [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
-* Practice: [CSS Grid Garden](https://cssgridgarden.com/) (**Optional**)
-
-## Lab
-* [Landing Page Grid](https://github.com/The-Marcy-Lab-School/landing-page-grid)
+1. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), section:
+    * Grid
 ___
+
+### Optional Learning
+
+#### Additional Resources
+* Tutorial: [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+* Tutorial: [CSS Grid Layout](https://teamtreehouse.com/library/css-grid-layout) on Treehouse
+* Practice: [CSS Grid Garden](https://cssgridgarden.com/)
