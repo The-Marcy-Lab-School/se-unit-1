@@ -22,13 +22,17 @@
 * What is the `scope` attribute and when would we use it?
 
 ## Learning Assignments
-* Article: [Utilizing the Underused (But Semantically Awesome) Definition List](https://css-tricks.com/utilizing-the-underused-but-semantically-awesome-definition-list/)
-* Article: [Definition Lists: Misused or Misunderstood?](http://maxdesign.com.au/articles/definition/)
+1. Article: [Utilizing the Underused (But Semantically Awesome) Definition List](https://css-tricks.com/utilizing-the-underused-but-semantically-awesome-definition-list/)
+2. Article: [Definition Lists: Misused or Misunderstood?](http://maxdesign.com.au/articles/definition/)
+3. [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html), only the section:
+    * Tables
+
+___
+
+### Optional Learning
+
+#### Additional Resources
 * Article: [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 * Article: [HTML Tables Advanced Features](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
 * Article: [Styling HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables)
 * (OPTIONAL) Tutorial: [HTML Tables](https://teamtreehouse.com/library/html-tables) on Treehouse
-
-## Lab
-* [Planetary Table](https://github.com/The-Marcy-Lab-School/planetary-table)
-___

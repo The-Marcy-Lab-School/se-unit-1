@@ -17,7 +17,9 @@ Fellows will be able to answer the questions...
 2. Article: [HTML Semantics Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 ___
 
-### Additional Resources
+### Optional Learning
+
+#### Additional Resources
 * Article: [Getting to Know HTML Article](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 * Tutorial: [Semantic Markup](https://teamtreehouse.com/library/introducing-the-practice-41) on Treehouse
 * [HTML Basics - **Structuring Your Content**](https://teamtreehouse.com/library/html-basics-2) Section on Treehouse

@@ -19,23 +19,23 @@
 * What is the benefit of keeping our specificity weights _low_?
 
 ## Learning Assignments
-1. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), section:
+1. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), only the section:
     * Selectors and Visual Rules
-
-* Article: [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/) on Shay Howe
-* Article: [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) on MDN
-* Article: [Pseudo Classes and Pseudo Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements) on MDN
-* Article: [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) on MDN
-* Article: [CSS Specifity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-* Article: [CSS Specificity Explained](https://pawelgrzybek.com/css-specificity-explained/)
-* Article: [**Reasons not to use IDs in CSS**](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
-* (Optional) Tutorial: [CSS Selectors - Beyond the Basics](https://teamtreehouse.com/library/css-selectors)
+2. Article: [Pseudo Classes and Pseudo Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements) on MDN
+3. Article: [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) on MDN
+4. Article: [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+5. Article: [CSS Specificity Explained](https://pawelgrzybek.com/css-specificity-explained/)
+6. Article: [**Reasons not to use IDs in CSS**](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
 
 ## Practice Assignments
 * [CSS Diner](https://flukeout.github.io/): Complete all levels of the CSS Diner activity.
 * [Specificity Quiz](https://mjswensen.github.io/css-power-ups/the-cascade-and-specificity/specificity-quiz/)
 ___
 
-## Extend Your Learning
+### Optional Learning
+
+#### Extend Your Learning
+* Article: [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) on MDN
 * Article: [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
 * Article: [CSS Style Guides](https://css-tricks.com/css-style-guides/)
+* Tutorial: [CSS Selectors - Beyond the Basics](https://teamtreehouse.com/library/css-selectors)
