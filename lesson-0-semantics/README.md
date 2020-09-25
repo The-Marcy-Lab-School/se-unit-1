@@ -14,13 +14,11 @@ Fellows will be able to answer the questions...
 1. [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html), only the first and last sections:
     * Elements and Structure
     * Semantic HTML
-2. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), section:
-    * Selectors and Visual Rules
+2. Article: [HTML Semantics Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 ___
 
 ### Additional Resources
 * Article: [Getting to Know HTML Article](https://learn.shayhowe.com/html-css/getting-to-know-html/)
-* Article: [HTML Semantics Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 * Tutorial: [Semantic Markup](https://teamtreehouse.com/library/introducing-the-practice-41) on Treehouse
 * [HTML Basics - **Structuring Your Content**](https://teamtreehouse.com/library/html-basics-2) Section on Treehouse
 * [MDN - Semantic HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)

@@ -28,13 +28,10 @@ Fellows will be able to answer the questions...
 
 ## Learning Assignments
 1. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), sections:
-  * The Box Model
-  * Display and Positioning
+    * The Box Model
+    * Display and Positioning
 2. Documentation: [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) on MDN
 3. Documentation: [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) on MDN
-
-## Lab
-* [Landing Page](https://github.com/The-Marcy-Lab-School/landing-page-lab)
 ___
 
 ### Additional Resources
