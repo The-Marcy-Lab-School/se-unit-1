@@ -1,4 +1,4 @@
-# Unit 1 - Lesson 1: The Box Model
+# Unit 1 - Lesson 2: The Box Model
 
 ## Objectives
 Fellows will be able to answer the questions...
