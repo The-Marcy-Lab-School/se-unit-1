@@ -1,4 +1,4 @@
-# Unit 1 Lesson 2: CSS Selectors
+# Unit 1 Lesson 1: CSS Selectors
 ## Vocabulary
 * CSS Selector
 * Type selector
