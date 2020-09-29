@@ -16,6 +16,12 @@ Fellows will be able to answer the questions...
       * Elements and Structure
       * Semantic HTML
 2. Article: [HTML Semantics Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
+
+## Tasks
+
+Download the folowing chrome extentions tools to help you create and re-create webpages:
+1. [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) used to get the exact color of certain pixels.
+2. [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/idhjfgkakeliobkfbijghiaklmiaheag) used to get the exact pixel dimensions for something.
 ___
 
 ### Optional Learning
