@@ -27,10 +27,11 @@ Fellows will be able to answer the questions...
 * Why would we use a _clearfix_ and what are the two ways we are likely to see it implemented?
 
 ## Learning Assignments
-1. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), sections:
-    * The Box Model
-    * Display and Positioning
-    * Colors
+1. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) (Quizes and Projects are optional) 
+   * Only the following sections:
+       * The Box Model
+       * Display and Positioning
+       * Colors
 2. Documentation: [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) on MDN
 3. Documentation: [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) on MDN
 ___
