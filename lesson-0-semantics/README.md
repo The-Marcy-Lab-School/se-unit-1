@@ -11,9 +11,10 @@ Fellows will be able to answer the questions...
 * How do `<div>`s and `<span>`s differ?
 
 ## Learning Assignments
-1. [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html), only the first and last sections:
-    * Elements and Structure
-    * Semantic HTML
+1. The Lessons in [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html) (Quizes and Projects are optional)
+   * Only the first and last sections:
+      * Elements and Structure
+      * Semantic HTML
 2. Article: [HTML Semantics Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 ___
 
