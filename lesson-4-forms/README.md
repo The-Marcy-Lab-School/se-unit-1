@@ -33,7 +33,7 @@
 * How do we ensure that labels are directly associated with the input field(s) the reference?
 
 ## Learning Assignments
-1. [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html), only the section:
+1. The *Lessons* in [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html), only the section:
     * Forms
 2. Article: [Building Forms on Shay Howe](https://learn.shayhowe.com/html-css/building-forms/)
 
