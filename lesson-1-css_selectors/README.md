@@ -27,7 +27,7 @@
 4. Article: [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 6. Article: [Reasons not to use IDs in CSS](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
 
-## Practice Assignments
+## Practice 
 * [CSS Diner](https://flukeout.github.io/): Complete all levels of the CSS Diner activity.
 * [Specificity Quiz](https://mjswensen.github.io/css-power-ups/the-cascade-and-specificity/specificity-quiz/)
 ___
