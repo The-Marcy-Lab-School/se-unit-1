@@ -27,7 +27,7 @@
       * Tables
 2. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css)
    * Only the section:
-      * Tables
+      * Typography
 3. Article: [Utilizing the Underused (But Semantically Awesome) Definition List](https://css-tricks.com/utilizing-the-underused-but-semantically-awesome-definition-list/)
 4. Article: [Definition Lists: Misused or Misunderstood?](http://maxdesign.com.au/articles/definition/)
 
