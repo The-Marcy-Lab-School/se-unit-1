@@ -32,7 +32,7 @@
 1. Video: [Flexbox CSS in 20 minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 2. Article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) on CSS Tricks
 
-## Practice Assignment:
+## Practice
 * Complete all levels of [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ___
