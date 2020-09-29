@@ -22,10 +22,10 @@
 * In what circumstances might a definition list be more appropriate than an unordered list?
 
 ## Learning Assignments
-1. The *Lessons* in [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html)
+1. The *Lessons* in [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html) (Quizes and Projects are optional)
    * Only the section:
       * Tables
-2. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css)
+2. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) (Quizes and Projects are optional)
    * Only the section:
       * Typography
 3. Article: [Definition Lists: Misused or Misunderstood?](http://maxdesign.com.au/articles/definition/)
