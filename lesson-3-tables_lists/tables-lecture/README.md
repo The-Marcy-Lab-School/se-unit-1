@@ -60,7 +60,7 @@
 
 8. Mark up the table with `<thead>`, `<tbody>`, `<tfoot>`. Talk over the accessibility benefits.
 
-9. Add a footer so that we can use the `colspan` attribute.
+9. Demonstrate`colspan` attribute.
   ```html
    <tfoot>
       <tr>
@@ -76,7 +76,7 @@
   }
   ```
 
-11. Demonstrate how we can great grouped headers by deleting the "4th period" cell and setting the "3rd period" `rowspan` attribute to `"2"`.
+11. Demonstrate`rowspan` attribute.
   ```html
   <th rowspan="2" scope="row">3rd Period</th>
   ```
