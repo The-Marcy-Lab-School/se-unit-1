@@ -3,7 +3,7 @@
 
 1. Adjust width and height of rows and columns.
   ```css
-  col {
+  td {
     width: 100px;
   }
 
@@ -12,18 +12,28 @@
   }
   ```
 
-2. Add and collapse borders by targeting table and all of it's descendants.
+2a. Which tables elements can have a border? What about padding and margin in our table cells?
+
+2b. Add and collapse borders by targeting table and all of it's descendants.
   ```css
-    table, table * {
+  table, table * {
     border: 1px solid black;
     border-collapse: collapse;
   }
   ```
+The default `border-collapse` property is `seperate` and has some thin white space seperating each cell. The `border-spacing` property determines how much space separtes each cell.
 
-3. Play around with text alignment by targeting the `text-align` property of the `td` element.
+3a. Play around with text alignment by targeting the `text-align` property of the `td` element.
   ```css
-    td {
+  td {
     text-align: center;
+  }
+  ```
+  
+3b. Play around with background colors.
+  ```css
+  table {
+    background-color: gray;
   }
   ```
 
