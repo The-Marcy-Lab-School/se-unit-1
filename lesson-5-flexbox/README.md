@@ -29,7 +29,7 @@
 * For what common layout scenarios is flexbox an ideal solution?
 
 ## Learning Assignments
-1. Video: [Flexbox CSS in 20 minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+1. Video: [Flexbox CSS in 20 minutes](https://www.youtube.com/watch?v=FTlczfR82mQ)
 2. Article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) on CSS Tricks
 
 ## Practice
