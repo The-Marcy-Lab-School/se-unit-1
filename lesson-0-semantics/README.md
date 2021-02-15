@@ -1,4 +1,4 @@
-# Unit 1 - Lesson 0: Semantic HTML/CSS Basics
+# Lesson 0: Semantic HTML/CSS Basics
 
 ## Objectives
 Fellows will be able to answer the questions...
@@ -11,7 +11,7 @@ Fellows will be able to answer the questions...
 * How do `<div>`s and `<span>`s differ?
 
 ## Learning Assignments
-1. The *Lessons* in [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html) (Quizes and Projects are optional)
+1. The *Lessons* in [Codecademy Learn HTML](https://www.codecademy.com/learn/learn-html) 
    * Only the first and last sections:
       * Elements and Structure
       * Semantic HTML
@@ -27,7 +27,5 @@ ___
 ### Optional Learning
 
 #### Additional Resources
-* Article: [Getting to Know HTML Article](https://learn.shayhowe.com/html-css/getting-to-know-html/)
-* Tutorial: [Semantic Markup](https://teamtreehouse.com/library/introducing-the-practice-41) on Treehouse
-* [HTML Basics - **Structuring Your Content**](https://teamtreehouse.com/library/html-basics-2) Section on Treehouse
+* Article: [Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 * [MDN - Semantic HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)

@@ -1,4 +1,4 @@
-# Unit 1 - Lesson 2: The Box Model
+# Lesson 2: The Box Model
 
 ## Objectives
 Fellows will be able to answer the questions...
@@ -35,11 +35,3 @@ Fellows will be able to answer the questions...
 2. Documentation: [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) on MDN
 3. Documentation: [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) on MDN
 ___
-
-### Optional Learning
-
-#### Additional Resources
-* Treehouse: CSS Basics - [Understanding Values and Lengths](https://teamtreehouse.com/library/common-data-types)
-* Treehouse: CSS Basics - [The Box Model](https://teamtreehouse.com/library/the-css-box-model)
-* Treehouse: CSS Basics - [Basic Layout](https://teamtreehouse.com/library/width-and-height-properties)
-* Treehouse: [CSS Layout Basics](https://teamtreehouse.com/library/css-layout-basics)

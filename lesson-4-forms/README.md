@@ -1,4 +1,5 @@
-# Unit 1 Lesson 4: Forms
+# Lesson 4: Forms
+
 ## Vocabulary
 * input type
 * form `method`
@@ -44,4 +45,3 @@ ___
 #### Additional Resources
 * Article: [Your First HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
 * Article: [How to Structure an HTML Form on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
-* Tutorial: [HTML Forms on Treehouse](https://teamtreehouse.com/library/html-forms)

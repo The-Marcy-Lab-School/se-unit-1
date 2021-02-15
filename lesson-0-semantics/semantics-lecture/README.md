@@ -1,4 +1,4 @@
-# Unit 1 - Lesson 0: Semantic HTML/CSS
+# Lesson 0: Semantic HTML/CSS
 
 ## Objectives
 Fellows will...

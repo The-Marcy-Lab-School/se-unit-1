@@ -1,4 +1,4 @@
-# Unit 1 Lesson 3: Lists and Tables
+# Lesson 3: Lists and Tables
 
 ## Vocabulary
 * Definition List
@@ -39,4 +39,3 @@ ___
 * Article: [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 * Article: [HTML Tables Advanced Features](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
 * Article: [Styling HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables)
-* (OPTIONAL) Tutorial: [HTML Tables](https://teamtreehouse.com/library/html-tables) on Treehouse

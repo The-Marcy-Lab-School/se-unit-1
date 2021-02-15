@@ -1,4 +1,4 @@
-# Unit 1 Lesson 5: Flexbox
+# Lesson 5: Flexbox
 
 ## Vocabulary
 * flex container
@@ -35,9 +35,3 @@
 ## Practice
 * Complete all levels of [Flexbox Froggy](https://flexboxfroggy.com/)
 
-___
-
-### Optional Learning
-
-#### Additional Resources
-* Tutorial: [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout) on Treehouse

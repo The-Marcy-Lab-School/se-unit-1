@@ -1,4 +1,4 @@
-# Unit 1 Lesson 7: Responsive Layout
+# Lesson 7: Responsive Layout
 
 ## Vocabulary
 * Fluid Layout
@@ -15,10 +15,3 @@
 ## Learning Assignments
 1. [Codecademy Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
 2. Article: [A Hands-On Guide to Mobile First Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
-
-___
-
-### Optional Learning
-
-#### Additional Resources
-* Tutorial: [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts) on Treehouse

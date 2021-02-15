@@ -1,4 +1,5 @@
-# Unit 1 Lesson 1: CSS Selectors
+# Lesson 1: CSS Selectors
+
 ## Vocabulary
 * CSS Selector
 * Type selector
@@ -38,4 +39,3 @@ ___
 * Article: [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) on MDN
 * Article: [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
 * Article: [CSS Style Guides](https://css-tricks.com/css-style-guides/)
-* Tutorial: [CSS Selectors - Beyond the Basics](https://teamtreehouse.com/library/css-selectors)

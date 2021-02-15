@@ -1,4 +1,4 @@
-# Unit 1 Lesson 6 Notes: CSS Grid
+# Lesson 6 Notes: CSS Grid
 
 ## Vocabulary
 * grid container
@@ -43,5 +43,4 @@ ___
 
 #### Additional Resources
 * Tutorial: [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
-* Tutorial: [CSS Grid Layout](https://teamtreehouse.com/library/css-grid-layout) on Treehouse
 * Practice: [CSS Grid Garden](https://cssgridgarden.com/)
