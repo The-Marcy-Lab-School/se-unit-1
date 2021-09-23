@@ -20,7 +20,7 @@
 * What is the benefit of keeping our specificity weights _low_?
 
 ## Learning Assignments
-1. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) (Quizes and Projects are optional) 
+1. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) 
    * Only the section:
        * Selectors and Visual Rules
 2. Article: [Pseudo Classes and Pseudo Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements) on MDN
