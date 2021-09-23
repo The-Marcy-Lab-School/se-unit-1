@@ -20,7 +20,7 @@
 * What is the benefit of keeping our specificity weights _low_?
 
 ## Learning Assignments
-1. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) 
+1. These *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) 
 
        * Syntax and Selectors  
        * Visual Rules
