@@ -21,6 +21,7 @@
 
 ## Learning Assignments
 1. The *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) 
+
        * Syntax and Selectors  
        * Visual Rules
        
