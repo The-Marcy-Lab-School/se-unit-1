@@ -35,8 +35,9 @@
 * What are named grid areas and how do they assist us in laying out a page?
 
 ## Learning Assignments
-1. [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css), section:
+1. [Codecademy Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css), sections:
     * Grid
+    * CSS Transitions (optional)
 ___
 
 ### Optional Learning
