@@ -30,7 +30,9 @@
 
 ## Learning Assignments
 1. Video: [Flexbox CSS in 20 minutes](https://www.youtube.com/watch?v=FTlczfR82mQ)
-2. Article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) on CSS Tricks
+2. Codecademy [Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css) section:
+  * Layout with Flexbox
+4. Article: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) on CSS Tricks
 
 ## Practice
 * Complete all levels of [Flexbox Froggy](https://flexboxfroggy.com/)
