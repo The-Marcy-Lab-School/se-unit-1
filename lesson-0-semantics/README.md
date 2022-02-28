@@ -21,7 +21,7 @@ Fellows will be able to answer the questions...
 
 Download the following chrome extentions tools to help you create and re-create webpages:
 1. [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) used to get the exact color of certain pixels.
-2. [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/idhjfgkakeliobkfbijghiaklmiaheag) used to get the exact pixel dimensions for something.
+2. [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) used to get the exact pixel dimensions for something.
 ___
 
 ### Optional Learning
