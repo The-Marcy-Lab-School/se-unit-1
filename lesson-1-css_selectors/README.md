@@ -31,7 +31,7 @@
 6. Article: [Reasons not to use IDs in CSS](https://dev.to/clairecodes/reasons-not-to-use-ids-in-css-4ni4)
 
 ## Practice 
-* [CSS Diner](https://flukeout.github.io/): Complete all levels of the CSS Diner activity.
+* [CSS Diner](https://flukeout.github.io/)
 * [Specificity Quiz](https://mjswensen.github.io/css-power-ups/the-cascade-and-specificity/specificity-quiz/)
 ___
 
