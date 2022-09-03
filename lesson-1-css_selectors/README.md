@@ -21,9 +21,8 @@
 
 ## Learning Assignments
 1. These *Lessons* in [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css) 
-
-       * Syntax and Selectors  
-       * Visual Rules
+      * Syntax and Selectors  
+      * Visual Rules
        
 2. Article: [Pseudo Classes and Pseudo Elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements) on MDN
 3. Article: [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) on MDN
